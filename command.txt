@@ -1,0 +1,2 @@
+cd C:\Office 2024
+setup /configure configuration.xml

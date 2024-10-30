@@ -1,2 +1,3 @@
 cd C:\Office 2024
 setup /configure configuration.xml
+Y63J7-9RNDJ-GD3BV-BDKBP-HH966
